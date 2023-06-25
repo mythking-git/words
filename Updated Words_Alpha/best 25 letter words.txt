@@ -1,0 +1,10 @@
+1 out of 15511210043330985984000000 possible letter combinations - 0.0000000000000000000000064469502843844735%
+
+1 - aaaabdeehiiiilmnnnrsssttt - ['antidisestablishmentarian']
+1 - acccdeeeehhilllmnorrtttyy - ['demethylchlortetracycline']
+1 - aaaccceeeeghhilllnoopprrt - ['electroencephalographical']
+1 - acceeehiilllmmnoooprrttuy - ['immunoelectrophoretically']
+1 - accceehiilmmoooopprrrsttt - ['microspectrophotometrical']
+1 - acccghhhiiilllooooopppssy - ['philosophicopsychological']
+1 - aaeeeeeeeggnnorrrrrrsstty - ['regeneratoryregeneratress']
+1 - bceeeeehiilmnnnopprrssssu - ['superincomprehensibleness']

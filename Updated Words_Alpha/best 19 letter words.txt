@@ -1,0 +1,9 @@
+2 out of 121645100408832000 possible letter combinations - 0.000000000000001644127049324866%
+
+2 - aaaccghiilmnooooptt - ['anatomicopathologic', 'pathologicoanatomic']
+2 - aacccghiiilllnooopt - ['clinicopathological', 'pathologicoclinical']
+2 - aceeeghiiilmnnnopst - ['encephalomeningitis', 'meningoencephalitis']
+2 - aaegghmooooprssstty - ['esophagogastrostomy', 'gastroesophagostomy']
+2 - bceiiiilnnoorrtttvy - ['incontrovertibility', 'introconvertibility']
+2 - aacccdeehiiinopprrr - ['pericardiacophrenic', 'phrenicopericardiac']
+2 - accghhiilloooppssyy - ['physiopsychological', 'psychophysiological']

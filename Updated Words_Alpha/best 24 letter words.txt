@@ -1,0 +1,14 @@
+1 out of 620448401733239439360000 possible letter combinations - 0.00000000000000000000016117375710961184%
+
+1 - aacdeeehhiiillmnnnoprrsy - ['diphenylaminechlorarsine']
+1 - aaabdeehiiiilmmnnrsssstt - ['disestablishmentarianism']
+1 - aaacccdeeghiilllooprrrty - ['electrocardiographically']
+1 - aaddeeefhhlllmooprstuxyy - ['formaldehydesulphoxylate']
+1 - acceeeeghiilmmnoorrtttty - ['magnetothermoelectricity']
+1 - accceeehiilllmoooprrrtty - ['microelectrophoretically']
+1 - aacccgghhiillloooooppsty - ['pathologicopsychological']
+1 - bbdeegiinnooopprrrrsttuu - ['preobtrudingpreobtrusion']
+1 - aacdeeiiiilnnnooprsstttu - ['pseudointernationalistic']
+1 - acccefhhiiiiillnoooppsst - ['scientificophilosophical']
+1 - aadeeehhhiillnnooopprttt - ['tetraiodophenolphthalein']
+1 - aacdeehhiimoooprrrtttyyz - ['thyroparathyroidectomize']

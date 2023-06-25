@@ -1,0 +1,7 @@
+2 out of 51090942171709440000 possible letter combinations - 0.0000000000000000039145882126782525%
+
+2 - aaaaccghiillmnooooptt - ['anatomicopathological', 'pathologicoanatomical']
+2 - acghhhhilmooooopprrtt - ['chromophotolithograph', 'photochromolithograph']
+2 - aaccddeeemnnoooprttuy - ['duodenopancreatectomy', 'pancreatoduodenectomy']
+2 - aaabegghilllnoooprssy - ['glossolabiopharyngeal', 'labioglossopharyngeal']
+2 - aceehhiilmnnooorrrttt - ['nitrotrichloromethane', 'trichloronitromethane']

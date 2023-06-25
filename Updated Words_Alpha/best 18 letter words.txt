@@ -1,0 +1,15 @@
+2 out of 6402373705728000 possible letter combinations - 0.00000000000003123841393717245%
+
+2 - abceehhlmmnoooorrt - ['bromochloromethane', 'chlorobromomethane']
+2 - aaccdhmmnoooorrsxy - ['chondromyxosarcoma', 'myxochondrosarcoma']
+2 - cdehiiiiinooorrstt - ['chorioidoretinitis', 'retinochorioiditis']
+2 - accghhhinoooopprrt - ['chronophotographic', 'photochronographic']
+2 - ceeeeehlmmoorrrttt - ['electrothermometer', 'thermoelectrometer']
+2 - addeiimmooopsstvyy - ['epididymovasostomy', 'vasoepididymostomy']
+2 - aaeeeghlmmnoorrttv - ['galvanothermometer', 'thermogalvanometer']
+2 - aadeeehhiknorrsttx - ['hexakistetrahedron', 'tetrakishexahedron']
+2 - aagghiilnnoprrstyy - ['laryngopharyngitis', 'pharyngolaryngitis']
+2 - aaceghlmnooorrttyy - ['laryngotracheotomy', 'tracheolaryngotomy']
+2 - acceghillnoooprsuy - ['neuropsychological', 'psychoneurological']
+2 - aacghhiilloooppsty - ['pathophysiological', 'physiopathological']
+2 - aaccghhlmooopprsyy - ['pharmacopsychology', 'psychopharmacology']

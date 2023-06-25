@@ -1,0 +1,5 @@
+2 out of 2432902008176640000 possible letter combinations - 0.0000000000000000822063524662433%
+
+2 - aaccghiiilmnoooopsty - ['anatomicophysiologic', 'physiologicoanatomic']
+2 - acceeeeeghillmnnnoop - ['encephalomeningocele', 'meningoencephalocele']
+2 - aaabeggillllnooorssy - ['glossolabiolaryngeal', 'labioglossolaryngeal']

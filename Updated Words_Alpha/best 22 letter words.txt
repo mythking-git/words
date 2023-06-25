@@ -1,0 +1,5 @@
+2 out of 1124000727777607680000 possible letter combinations - 0.0000000000000000001779358278490115%
+
+2 - aceefhhillmnoooorrrttu - ['chlorotrifluoromethane', 'trifluorochloromethane']
+2 - ccddeehlmnooooossttuyy - ['cholecystoduodenostomy', 'duodenocholecystostomy']
+2 - acddeehiimmnoopprrruuy - ['hydropneumopericardium', 'pneumohydropericardium']
