@@ -46,11 +46,14 @@ alpha_y = [
           0.0000000000000000000000064469502843844735
           ]
           
+max_alpha =   [2,6,9,14,15,14,9,9,5,6,3,4,3,4,2,2,2,2,2,2,2,2,1,1,1]
+max_scrable = [2,5,9,13,12,11,11,6,5,6,4,3,3,4]
+
 
 plt.figure()
 
 # linear
-plt.subplot(121)
+plt.subplot(1,3,1)
 plt.plot(alpha_y,"b-",lw=0.5)
 plt.plot(scrable_y,"r--",lw=2)
 plt.yscale('linear')
@@ -58,11 +61,19 @@ plt.title('linear')
 plt.grid(True)
 
 # log
-plt.subplot(122)
+plt.subplot(1,3,2)
 plt.plot(alpha_x,alpha_y,"b")
 plt.plot(scrable_x,scrable_y,"r--")
 plt.yscale('log')
 plt.title('log')
+plt.grid(True)
+
+# max
+plt.subplot(1,3,3)
+plt.plot(max_alpha,"b-",lw=0.5)
+plt.plot(max_scrable,"r--",lw=2)
+plt.yscale('linear')
+plt.title('max')
 plt.grid(True)
 
 plt.subplots_adjust(top=0.92, bottom=0.08, left=0.10, right=0.95, hspace=0.25,
